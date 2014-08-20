@@ -1,0 +1,15 @@
+Git clone "link" 
+cd "projekt navn" <- sådan kommer du ind i et projekt
+
+
+git push <- for at ligge get op
+
+_______________________________________________________
+
+git init "navn" <- opret projekt
+
+cd "navn på projektet" <- sådan kommer du ind i projektet
+
+git add filnavn <- tilføjer filen til projekt mappen
+
+git commit -m "besked" <- besked på det du har lagt op
