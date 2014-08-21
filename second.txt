@@ -13,3 +13,6 @@ cd "navn på projektet" <- sådan kommer du ind i projektet
 git add filnavn <- tilføjer filen til projekt mappen
 
 git commit -m "besked" <- besked på det du har lagt op
+
+
+llalalalala
